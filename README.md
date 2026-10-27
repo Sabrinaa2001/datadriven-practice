@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/major_summit_4334), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-10-27 |
+| [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Easy | 2026-10-27 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-10-27 |
 
 <!-- datadriven:index:end -->
