@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/major_summit_4334), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-10-28 |
 | [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-28 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-10-28 |
 | [Total Engineering Cost Allocation](./practice/sql/total-engineering-cost-allocation) | SQL | Easy | 2026-10-28 |
