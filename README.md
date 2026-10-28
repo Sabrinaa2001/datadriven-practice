@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/major_summit_4334), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-10-28 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-10-28 |
 | [Total Engineering Cost Allocation](./practice/sql/total-engineering-cost-allocation) | SQL | Easy | 2026-10-28 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-27 |
